@@ -73,6 +73,11 @@ UAE PASS is the United Arab Emirates’ national digital identity platform that 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://uaepass.ae/)
+- [Documentation](https://docs.uaepass.ae/)
+- [Getting started](https://docs.uaepass.ae/getting-onboarded-with-uae-pass/onboarding-process-for-uae-pass-service-providers)
+- [GitHub](https://github.com/UAEPASS)
+
+**APIs profiled:** 1
 
 ## API Evangelist rating
 
