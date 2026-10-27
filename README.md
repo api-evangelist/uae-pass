@@ -64,5 +64,16 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-UAE PASS is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://uaepass.ae/
+UAE PASS is the United Arab Emirates’ national digital identity platform that enables citizens, residents and businesses to securely access government and private sector services online. It provides a unified authentication and electronic signature solution, supporting mobile apps, web portals and APIs for identity verification, consent management, and transaction signing across a wide range of public and private services.
+
+**Areas:** Company · Identity · Authentication · UAE · Digital
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://uaepass.ae/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/uae-pass/](https://apis.io/providers/uae-pass/).
